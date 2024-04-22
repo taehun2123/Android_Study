@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ratingBar</string>
+    <string name="tvRateInfo">이 작품을 평가하세요</string>
+    <string name="rb1">1번</string>
+    <string name="rb2">2번</string>
+    <string name="rb3">3번</string>
+    <string name="rb4">4번</string>
+    <string name="submit">제출하기</string>
+    <string name="rate">점수 : n점</string>
+    <string name="rateList">작품 평가 목록</string>
+    <string name="rateItem1">1번 작품 :</string>
+    <string name="rateItem2">2번 작품 :</string>
+    <string name="rateItem3">3번 작품 :</string>
+    <string name="rateItem4">4번 작품 :</string>
+</resources>
