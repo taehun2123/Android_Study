@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">view_practice_3</string>
+    <string name="btn_add">랜덤 생성</string>
+    <string name="btn_rst">초기화</string>
+    <string name="btn_random">"난수 : "</string>
+    <string name="tvTitle">난수 생성기!!</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miBlue"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:title="파랑색" />
+    <item
+        android:id="@+id/miGreen"
+        android:icon="@android:drawable/presence_online"
+        android:title="초록색"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/miRed"
+        android:icon="@android:drawable/ic_notification_overlay"
+        android:title="빨간색"
+        app:showAsAction="ifRoom" />
+</menu>
